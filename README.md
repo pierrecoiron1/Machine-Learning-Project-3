@@ -6,9 +6,9 @@ Note that the project was intended strictly as a proof of concept, and was not i
 
 With a single hidden layer network, there are 3 hidden layers:
 
--The Number of training iterations
--The Number of Nodes in the hidden layer
--The Learning Rate
+1. The Number of training iterations
+2. The Number of Nodes in the hidden layer
+3. The Learning Rate
 
 Unfortunatly, after several hours of tuning my 3 superparameters, I could never find a model that was very accuurate.
 However, just like the rubic asked for, I proved the concept of a single-hidden layered nueral network.
