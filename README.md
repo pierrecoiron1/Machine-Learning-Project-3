@@ -7,7 +7,9 @@ Note that the project was intended strictly as a proof of concept, and was not i
 With a single hidden layer network, there are 3 hidden layers:
 
 -The Number of training iterations
+
 -The Number of Nodes in the hidden layer
+
 -The Learning Rate
 
 Unfortunatly, after several hours of tuning my 3 superparameters, I could never find a model that was very accuurate.
